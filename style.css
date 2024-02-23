@@ -1,3 +1,12 @@
+body{
+    display:flex;
+}
+header{
+    background-color: black;
+    height: 20%;
+    width: 20%;
+    display: flex;
+}
 .cointeiner{
     width: 80%;
 }
