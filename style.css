@@ -1,6 +1,7 @@
 body{
     background-color:#1B112A;
     display: flex;
+
 }
 header{
     border-right: solid black;
@@ -193,7 +194,7 @@ header img{
 }
 body>div{
     width: 80%;
-    display: flex;
+    display: flex;S
     flex-direction: column;
 }
 .switch {
