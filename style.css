@@ -15,5 +15,8 @@ header{
     height: 600px;
     background-color: blueviolet;
     display: flex;
+    align-items: flex-start;
+    flex-direction: column;
     
+
 }
