@@ -196,9 +196,6 @@ body>div{
     display: flex;
     flex-direction: column;
 }
-
-
-}
 .switch {
     position: relative;
     display: inline-block;
