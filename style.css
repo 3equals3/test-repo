@@ -1,6 +1,7 @@
 body{
+    display:flex;
+    color:white;
     background-color:#1B112A;
-    display: flex;
 }
 header{
     border-right: solid black;
@@ -42,14 +43,14 @@ header img{
     margin: 10px;
 }
 .cointeiner{
-    width: 100%;
+    width: 80%;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
 }
 .icon{
     width: 60%;
-    height: 400px;
+    height: 600px;
     background-color: blueviolet;
     display: flex;
     align-items: center;
@@ -191,14 +192,8 @@ header img{
     height: 440px;
     
 }
-body>div{
-    width: 80%;
-    display: flex;
-    flex-direction: column;
-}
 
 
-}
 .switch {
     position: relative;
     display: inline-block;
