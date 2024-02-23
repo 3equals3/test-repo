@@ -194,7 +194,7 @@ header img{
 }
 body>div{
     width: 80%;
-    display: flex;S
+    display: flex;
     flex-direction: column;
 }
 .switch {
